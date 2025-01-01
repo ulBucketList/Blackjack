@@ -1,5 +1,4 @@
-# cod8643e2aca8a78aa49d78e7
-
+# Blackjack
 Quick start:
 
 ```
